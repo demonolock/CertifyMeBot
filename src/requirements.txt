@@ -1,0 +1,3 @@
+openai==1.60.1
+Telethon==1.38.1
+python-dotenv==1.0.1

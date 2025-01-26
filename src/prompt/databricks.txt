@@ -1,0 +1,6 @@
+Generate a series of multiple-choice questions to help practice for the Databricks Certified Data Engineer Associate exam.
+The questions should focus on key topics such as Delta Lake features, Databricks Lakehouse Platform, Apache Spark ELT,
+data governance, pipeline development, and performance optimization. Each question should include four answer options,
+and the correct answer with an explanation should be provided after the user answers.
+Ensure the questions mimic the style and difficulty of the certification exam.
+Your message should contain only the question.
